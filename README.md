@@ -5,7 +5,7 @@ Optimized ATS with IBM WatsonX LLaMA is a web-based application designed to eval
 [![Deploy on Hugging Face](https://img.shields.io/badge/Deploy-Hugging%20Face-ffd500?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/lekhsisodiya/LATENT_5XX)
 
 ## UI Appearance 🖼️
-![Optimized ATS UI]([https://github.com/lekh-ai/Optimized-ATS/blob/main/static/images/Optimized-ATS_UI.png](https://github.com/lekh-ai/Latent-500-AI-based-ATS-software/blob/main/Latent%20500.png)
+![Optimized ATS UI](https://github.com/lekh-ai/Latent-500-AI-based-ATS-software/blob/main/Latent%20500.png)
 
 ## Features ✨
 
