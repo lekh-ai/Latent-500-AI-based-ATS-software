@@ -1,0 +1,12 @@
+streamlit
+ibm-watsonx-ai
+ibm-watson-machine-learning
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+scikit-learn
+langchain
+langchain_community
+PyPDF2
+langchain-ibm
